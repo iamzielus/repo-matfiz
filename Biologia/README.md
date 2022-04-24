@@ -1,6 +1,6 @@
-#Biologia
+# Biologia
 Ten katalog zawiera zagadnienia z biologii.
 
-##Działy:
+## Działy:
 - [Ekologia](Ekologia/)
 

@@ -1,4 +1,4 @@
-#Ekologia
+# Ekologia
 - [Wymagane pojęcia](pojecia.txt)
 - [Bioindykatory](indykatory.txt)
 - [Cechy populacji](cechy.txt)

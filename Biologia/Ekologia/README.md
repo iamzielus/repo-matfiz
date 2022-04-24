@@ -1,6 +1,6 @@
 # Ekologia
-- [Wymagane pojęcia](pojecia.txt)
-- [Bioindykatory](indykatory.txt)
-- [Cechy populacji](cechy.txt)
-- [Struktury populacji](struktury.txt)
-- [Oddziaływanie organizmów](oddzialywanie.txt)
+- [Wymagane pojęcia](pojecia.md)
+- [Bioindykatory](indykatory.md)
+- [Cechy populacji](cechy.md)
+- [Struktury populacji](struktury.md)
+- [Oddziaływanie organizmów](oddzialywanie.md)

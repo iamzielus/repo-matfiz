@@ -9,4 +9,4 @@ Na liczebność wpływają:
 - imigracja
 - emigracja
 
-Do cech populacji należą także struktury populacji (więcej w pliku struktury.txt)
+Do cech populacji należą także [struktury populacji](struktury.md)

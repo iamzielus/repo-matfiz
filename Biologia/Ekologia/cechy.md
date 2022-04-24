@@ -1,5 +1,4 @@
-Cechy populacji
-===============
+# Cechy populacji
 
 Liczebność populacji - liczba tworzących ją osobników
 Zagęszczenie populacji - liczba osobników przypadająca na jednostkę powierzchni lub objętości

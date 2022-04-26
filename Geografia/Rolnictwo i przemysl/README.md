@@ -4,7 +4,7 @@ Zagadnienia z rolnictwa i przemysłu
 ## Rolnictwo:
 - [Warunki rozwoju rolnictwa](https://www.geografia24.eu/geo_prezentacje_pr_3/303_5_gospodarka_polski/r3_5_01a.pdf)
 - [Obliczenia oraz pojęcia](obliczenia.md)
-- [Opis zbóż i roślin](zboza_i_inne.md) [(prezentacja)](https://www.geografia24.eu/geo_prezentacje_pr_3/303_5_gospodarka_polski/r3_5_03a.pdf)
+- [Opis zbóż i roślin](zboza_i_inne.md) / [(prezentacja)](https://www.geografia24.eu/geo_prezentacje_pr_3/303_5_gospodarka_polski/r3_5_03a.pdf)
 - [Struktura agrarna](agrarna.md)
 - [Chów zwierząt](https://www.geografia24.eu/geo_prezentacje_pr_3/303_5_gospodarka_polski/r3_5_04a.pdf)
 - [Struktura hodowli zwierzęcej](struktura_hodowli.png)

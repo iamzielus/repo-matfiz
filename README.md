@@ -5,3 +5,4 @@ Repozytorium z pomocami naukowymi dla matfizu.
 - [Konkurs Cyberskiller](Cybersecurity/)
 - [Informatyka](Informatyka/)
 - [Biologia](Biologia/)
+- [Historia](Historia/)

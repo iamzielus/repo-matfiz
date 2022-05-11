@@ -1,3 +1,3 @@
 ## Spis treści:
 
-- [{P} Sprawdzian z łańcuchów znaków](Informatyka/sprawdzian-strings.cpp)
+- [{P} Sprawdzian z łańcuchów znaków](sprawdzian-strings.cpp)

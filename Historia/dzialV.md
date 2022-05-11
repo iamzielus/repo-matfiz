@@ -12,7 +12,7 @@
 
 **depesza Zimmermana** (str 215) - niemiecka depesza przechwycona w styczniu 1917r. przez brytyjski wywiad. Była to zaszyfrowana wiadomość od ministra spraw zagranicznych Arthura Zimmermana do niemieckiego ambasadora w Meksyku. Zawierała niemiecką propozycję sojuszu z Meksykiem przeciwko USA, dzięki której Meksyk miał odzyskać część Teksasu, Nowego Meksyku i Arizony (utracone tereny na rzecz USA).
 
-**plan Schlieffena** (str 198) - plan wojny błyskawicznej, zakładający szybkie podbicie Francji i skierowanie niemieckich wojsk na front wschodni. Carska armia zdąrzyła się jednak zmobilizować i zaatakowała Prusy Wschodnie, przez co niemieckie dowództwo musiało odesłać część wojsk z frontu zachodniego na front wschodni, a plan wojny błyskawicznej się nie udał. 
+**plan Schlieffena** (str 198) - plan wojny błyskawicznej, zakładający szybkie podbicie Francji i skierowanie niemieckich wojsk na front wschodni. Carska armia zdążyła się jednak zmobilizować i zaatakowała Prusy Wschodnie, przez co niemieckie dowództwo musiało odesłać część wojsk z frontu zachodniego na front wschodni, a plan wojny błyskawicznej się nie udał. 
 
 **rewolucja lutowa** (str 208) - rewolucja w Rosji, która wybuchła 8 marca 1917r. (23 lutego wg. k. juliańskiego). Przyczyną były Rosyjskie straty podczas wojny oraz przede wszystkim słaba sytuacja ekonomiczna, społeczna i polityczna Rosji. Drożyzna i braki w zaopatrzeniu (w tym żywności) doprowadziła do niezadowolenia społeczeństwa oraz strajków kobiet i robotników. W ciągu dwóch dni do rewolucji dołączyło ponad 200 tys. osób, a taka eskalacja rewolucji skutkowała rozstrzelaniu wielu demonstrantów przez carskich żołnierzy. W wyniku rewolucji car był zmuszony do abdykacji, a władzę objął Rząd Tymczasowy.
 
